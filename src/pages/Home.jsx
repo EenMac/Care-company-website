@@ -179,7 +179,7 @@ const Home = () => {
 
 const styles = {
   container: "space-y-16 pb-16",
-  hero: "h-[600px] bg-cover bg-center relative bg-[url('src/images/raychan-yk7F8bdD0eU-unsplash.jpg')]",
+  hero: "h-[600px] bg-cover bg-center bg-[length:72%] relative bg-[url('https://www.rgare.com/images/default-source/kc-article-images/eldercare-thumb2.jpg?sfvrsn=78b22dbe_1')]",
   heroOverlay: "absolute inset-0 bg-black bg-opacity-50",
   heroContent: "relative max-w-7xl mx-auto px-4 h-full flex items-center",
   heroText: "text-white max-w-2xl",
