@@ -16,7 +16,7 @@ const Navbar = () => {
           <div className={styles.logoWrapper}>
             <Link to="/" className={styles.logo}>
               <Heart className={styles.logoIcon} />
-              <span className={styles.logoText}>Erica McDulling</span>
+              <span className={styles.logoText}>EC Care</span>
             </Link>
           </div>
           
