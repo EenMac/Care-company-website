@@ -36,11 +36,11 @@ const About = () => {
               </p>
 
               <p className={styles.profileText}>
-                Fitness and well-being are integral to my life. Having completed two ultra-marathons, provincial and Masters-level field hockey, and the world's largest open-water swim four times, I understand the importance of perseverance and balance. Whenever possible, I encourage my clients to get outside for fresh air, movement, and a touch of sunlight—simple yet effective ways to boost their spirits and overall health.
+                Fitness and well-being are integral to my life. Having completed two ultra-marathons, provincial and Masters-level field hockey, and the world's largest open-water swim four times, I understand the importance of resilience and balance. Whenever possible, I encourage my clients to get outside for fresh air, movement, and a touch of sunlight—simple yet effective ways to boost their spirits and overall health.
               </p>
 
               <p className={styles.profileText}>
-                When I'm not working, I cherish time with my two grown sons in Glasgow, stay connected with my energetic 85-year-old mother, and explore Scotland's hidden gems with my binoculars in hand for a bit of birdwatching.
+                On a more personal note, when I'm not working, I cherish time with my two grown sons in Glasgow, stay connected with my energetic 85-year-old mother, and explore Scotland's hidden gems with my binoculars in hand for a bit of birdwatching.
               </p>
 
               <p className={styles.profileText}>
@@ -59,9 +59,7 @@ const About = () => {
                 <li>Dementia Care</li>
                 <li>Diabetes Management</li>
                 <li>Depression Support</li>
-                <li>Stroke Recovery</li>
-                <li>Palliative Care</li>
-                <li>Permanent Oxygen Support</li>
+                <li>Long-term Oxygen Therapy</li>
               </ul>
             </div>
             <div className={styles.specialtyCard}>
